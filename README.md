@@ -6,7 +6,7 @@
 
 📚 I'm constantly learning and exploring new technologies to stay on the cutting edge of web development.
 
-🎓 EdX Bootcamp Graduate. CodeCademy career path in Web Development.
+🎓 EdX Front-End Engineer Bootcamp Graduate. CodeCademy 'career path' in Web Development.
 
 🌐 Check out my projects below!
 
