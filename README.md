@@ -2,7 +2,7 @@
 
 🌐 Web Developer | 🚀 Passionate about creating digital experiences
 
-🔧 Skills: HTML, CSS, JavaScript, React, jQuery, Node.js, Git
+🔧 Skills: HTML, CSS, JavaScript, React, jQuery, Bootstrap, Node.js, Git
 
 📚 I'm constantly learning and exploring new technologies to stay on the cutting edge of web development.
 
